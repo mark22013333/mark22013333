@@ -1,11 +1,11 @@
 <!-- Typing SVG 動態動畫 -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Prop+Single&pause=1000&color=4D6BF7BA&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=480&height=125&lines=Cheng's+Tech+%26+Life;Backend+engineer+by+day+%E2%98%80%EF%B8%8F;Bug+hunter+by+night+%F0%9F%8C%99;Fuelled+by+coffee%2C+driven+by+code+%E2%98%95" alt="Typing SVG" /></a>
 
-<!-- 個人頭像 -->
+<!-- 個人頭像 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/31495069?v=4" width="150" style="border-radius: 50%;" alt="avatar">
 </p>
-
+-->
 <h1 align="center">Hi 👋，我是 Mark</h1>
 <h3 align="center">💻 Java 後端工程師｜📈 擅長優化系統效能｜🌙 晚上靠 Netflix 放鬆</h3>
 
