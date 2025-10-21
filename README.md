@@ -11,33 +11,25 @@
 
 ---
 
-### 🧩 關於我 | About Me
+### 🧩 About Me
 
-- 🔧 目前專注於金融業推播系統的後端開發與維運  
-  🔧 Currently focusing on backend development in financial push systems  
-  ➤ **Push System Optimization Project**
+- 🔧 Currently focusing on backend development in financial push systems  
 
-- 🌱 正在學 Kubernetes 與分散式架構設計  
-  🌱 Currently learning Kubernetes and distributed system architecture
+- 🌱 Currently learning Kubernetes and distributed system architecture
 
-- 👯 擅長 Spring Boot 微服務開發、維護單體系統並整合 Hazelcast 分散式同步  
-  👯 Skilled in microservices & legacy system maintenance with Hazelcast
+- 👯 Skilled in microservices & legacy system maintenance with Hazelcast
 
-- 🤝 歡迎交流高併發架構與系統調校經驗  
-  🤝 Looking to exchange experiences in high concurrency architecture
+- 🤝 Looking to exchange experiences in high concurrency architecture
 
-- 💬 歡迎聊聊 Java、Spring 全家桶、效能優化與除錯技巧  
-  💬 Ask me about Java, Spring ecosystem, performance tuning & debugging
+- 💬 Ask me about Java, Spring ecosystem, performance tuning & debugging
 
-- 📫 聯絡我：**mark22013333@gmail.com**  
-  📫 Reach me: **mark22013333@gmail.com**
+- 📫 Reach me: **mark22013333@gmail.com**
 
-- ⚡ 趣事：深夜 debug 比打電動還有成就感 😎  
-  ⚡ Fun fact: Debugging at midnight is more satisfying than gaming 🎮
+- ⚡ Fun fact: Debugging at midnight is more satisfying than gaming 🎮
 
 ---
 
-### 🌐 社群連結 | Connect with Me
+### 🌐 Connect with Me
 
 <p align="left">
   <a href="https://linkedin.com/in/cheng106" target="_blank">
@@ -50,9 +42,9 @@
 
 ---
 
-### 🛠️ 技術棧 | Tech Stack
+### 🛠️ Tech Stack
 
-#### 💻 語言與框架 | Languages & Frameworks
+#### 💻 Languages & Frameworks
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" />
@@ -60,7 +52,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" />
 </p>
 
-#### 🗃️ 資料庫與訊息系統 | DBs & Messaging
+#### 🗃️ DBs & Messaging
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" />
   <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40" />
@@ -71,7 +63,7 @@
   <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" />
 </p>
 
-#### 🧰 工具與平台 | Tools & Platforms
+#### 🧰 Tools & Platforms
 <p>
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" />
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" />
@@ -84,7 +76,7 @@
 
 ---
 
-### 🏆 成就牆 | GitHub Trophies
+### 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mark22013333&theme=onedark&row=1&margin-w=15&no-bg=true&no-frame=true" />
@@ -92,7 +84,7 @@
 
 ---
 
-### 📊 GitHub 統計 | GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mark22013333&show_icons=true&theme=tokyonight&locale=en" />
