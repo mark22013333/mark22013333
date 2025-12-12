@@ -34,38 +34,37 @@
 - ⚡ **擅長領域**：
     - 微服務架構與 Hazelcast 舊系統維護。
     - **Java 效能調校**：不僅僅是寫程式，更喜歡深入堆疊 (Stack) 找問題。
-- 💬 **我們可以聊聊**：Java 生態系、Spring Boot/Cloud、GC 機制 (G1, ZGC)、或是任何關於效能優化的鬼故事。
 
 ---
 
 ### 🛠️ 技術軍火庫 (Tech Stack)
 
-我喜歡用最合適的工具解決問題，以下是我常用的技術棧：
-
 | **Backend Core** | **Database & Messaging** | **DevOps & Tools** |
 |:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" alt="Java"/> <br> **Java** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" alt="MySQL"/> <br> **MySQL** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" alt="Docker"/> <br> **Docker** |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="50" alt="Spring"/> <br> **Spring Boot** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="50" alt="Redis"/> <br> **Redis** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="50" alt="K8s"/> <br> **Kubernetes** |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JS"/> <br> **JavaScript** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="50" alt="Kafka"/> <br> **Kafka** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="50" alt="Grafana"/> <br> **Grafana** |
-| | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="50" alt="MSSQL"/> <br> **MSSQL** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" alt="Git"/> <br> **Git** |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white) | ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) |
+| | ![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
+
 ---
 
 ### 📊 程式資料 (Coding Stats)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mark22013333&show_icons=true&theme=tokyonight&locale=en&hide_border=true&bg_color=0d1117" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mark22013333&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mark22013333&show_icons=true&theme=tokyonight&locale=en&hide_border=true&bg_color=0d1117&cache_buster=v1" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mark22013333&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_buster=v1" height="180" alt="languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mark22013333&theme=gitdimmed&row=1&margin-w=15&no-bg=true&no-frame=true" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mark22013333&theme=gitdimmed&row=1&margin-w=15&no-bg=true&no-frame=true&cache_buster=v1" alt="trophies" />
 </div>
 
 ---
 
 ### 🐍 我的貢獻軌跡 (Contribution Snake)
+
 <div align="center">
   <img src="https://github.com/mark22013333/mark22013333/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
