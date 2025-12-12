@@ -39,14 +39,92 @@
 
 ### 🛠️ 技術軍火庫 (Tech Stack)
 
-我喜歡用最合適的工具解決問題，以下是我常用的技術棧：
+我喜歡用最合適的工具解決問題，以下是我常用的技術架構：
 
-| **Backend Core** | **Database & Messaging** | **DevOps & Tools** |
-|:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" alt="Java"/> <br> **Java** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" alt="MySQL"/> <br> **MySQL** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" alt="Docker"/> <br> **Docker** |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="50" alt="Spring"/> <br> **Spring Boot** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="50" alt="Redis"/> <br> **Redis** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="50" alt="K8s"/> <br> **Kubernetes** |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JS"/> <br> **JavaScript** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="50" alt="Kafka"/> <br> **Kafka** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="50" alt="Grafana"/> <br> **Grafana** |
-| | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="50" alt="MSSQL"/> <br> **MSSQL** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" alt="Git"/> <br> **Git** |
+<table border="0" width="100%">
+  <tr>
+    <th colspan="3" align="left">💻 Backend Core</th>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.java.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="55" alt="Java" />
+      </a>
+      <br>
+      <b>Java</b>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://spring.io/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="55" alt="Spring" />
+      </a>
+      <br>
+      <b>Spring Boot</b>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55" alt="JavaScript" />
+      </a>
+      <br>
+      <b>JavaScript</b>
+    </td>
+  </tr>
+</table>
+
+<table border="0" width="100%">
+  <tr>
+    <th colspan="4" align="left">🗄️ Database & Messaging</th>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="55" alt="MySQL" />
+      <br>
+      <b>MySQL</b>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="55" alt="MSSQL" />
+      <br>
+      <b>MSSQL</b>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="55" alt="Redis" />
+      <br>
+      <b>Redis</b>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="55" alt="Kafka" />
+      <br>
+      <b>Kafka</b>
+    </td>
+  </tr>
+</table>
+
+<table border="0" width="100%">
+  <tr>
+    <th colspan="4" align="left">🚀 DevOps & Tools</th>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="55" alt="Docker" />
+      <br>
+      <b>Docker</b>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="55" alt="K8s" />
+      <br>
+      <b>Kubernetes</b>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="55" alt="Grafana" />
+      <br>
+      <b>Grafana</b>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="55" alt="Git" />
+      <br>
+      <b>Git</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
