@@ -68,13 +68,27 @@
 ### 🐍 我的貢獻軌跡 (Contribution Snake)
 
 <div align="center">
-  <img src="https://github.com/mark22013333/mark22013333/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mark22013333/mark22013333/blob/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/mark22013333/mark22013333/blob/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </div>
 
 ---
 
-<p align="center">
-  <a href="https://ko-fi.com/mark22013333">
-    <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" height="36" style="border:0px;height:36px;" alt="Buy Me a Coffee at ko-fi.com" />
+<div align="center">
+  <h3>🤝 交流與支持 (Connect & Support)</h3>
+  
+  <a href="https://p.ecpay.com.tw/EFC3F8F" target="_blank">
+    <img src="https://img.shields.io/badge/☕_%E8%AB%8B%E6%88%91%E5%96%9D%E6%9D%AF%E5%92%96%E5%95%A1-Donate-11998e?style=for-the-badge&logo=coffee&logoColor=white" alt="請我喝杯咖啡"/>
   </a>
-</p>
+  &nbsp;&nbsp; <a href="https://calendly.com/markcheng00806-intumit/15min" target="_blank">
+    <img src="https://img.shields.io/badge/📅_%E9%A0%90%E7%B4%84_15_%E5%88%86%E9%90%98-Book_Time-0072ff?style=for-the-badge" alt="預約 15 分鐘"/>
+  </a>
+
+  <br><br>
+  
+  <p style="font-size: 14px; color: #888; font-style: italic;">
+    "你的鼓勵將被轉換為我明天繼續加班的動力（真的）。"
+  </p>
+</div>
