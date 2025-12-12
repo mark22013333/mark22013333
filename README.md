@@ -40,15 +40,14 @@
 
 ### 🛠️ 技術軍火庫 (Tech Stack)
 
-我喜歡用最合適的工具解決問題，以下是我常用的技術架構：
+我喜歡用最合適的工具解決問題，以下是我常用的技術棧：
 
 | **Backend Core** | **Database & Messaging** | **DevOps & Tools** |
 |:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" alt="Java"/> <br> **Java** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" alt="MySQL"/> <br> **MySQL** | <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="50" alt="Docker"/> <br> **Docker** |
-| <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="50" alt="Spring"/> <br> **Spring Boot** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="50" alt="Redis"/> <br> **Redis** | <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="50" alt="K8s"/> <br> **Kubernetes** |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JS"/> <br> **JavaScript** | <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="50" alt="Kafka"/> <br> **Kafka** | <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="50" alt="Grafana"/> <br> **Grafana** |
-| | <img src="https://www.vectorlogo.zone/logos/microsoft_sql_server/microsoft_sql_server-icon.svg" width="50" alt="MSSQL"/> <br> **MSSQL** | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" alt="Git"/> <br> **Git** |
-
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" alt="Java"/> <br> **Java** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" alt="MySQL"/> <br> **MySQL** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" alt="Docker"/> <br> **Docker** |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="50" alt="Spring"/> <br> **Spring Boot** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="50" alt="Redis"/> <br> **Redis** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="50" alt="K8s"/> <br> **Kubernetes** |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JS"/> <br> **JavaScript** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="50" alt="Kafka"/> <br> **Kafka** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="50" alt="Grafana"/> <br> **Grafana** |
+| | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="50" alt="MSSQL"/> <br> **MSSQL** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" alt="Git"/> <br> **Git** |
 ---
 
 ### 📊 程式資料 (Coding Stats)
