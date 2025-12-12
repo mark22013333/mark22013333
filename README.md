@@ -131,14 +131,15 @@
 ### 📊 程式資料 (Coding Stats)
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mark22013333&theme=onedark&row=1&margin-w=15&no-bg=true&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mark22013333&theme=gitdimmed&row=1&margin-w=15&no-bg=true&no-frame=true&refresh=fix_images_v2" alt="trophies" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mark22013333&show_icons=true&theme=tokyonight&locale=en&hide_border=true" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mark22013333&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="180" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mark22013333&show_icons=true&theme=tokyonight&locale=en&hide_border=true&bg_color=0d1117&refresh=fix_images_v2" height="180" alt="stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mark22013333&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&refresh=fix_images_v2" height="180" alt="languages" />
 </div>
 
 ---
