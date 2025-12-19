@@ -150,17 +150,24 @@
 </p>
 
 ---
-### 交流與支持 (Connect & Support)
-<br>
+<h3 align="center">☕ 交流與支持 (Connect & Support)</h3>
+
 <div align="center">
+
+  <a href="https://www.buymeacoffee.com/mark22013333" target="_blank">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" height="40"/>
+  </a>
+  &nbsp;
   <a href="https://p.ecpay.com.tw/EFC3F8F" target="_blank">
-    <img src="https://img.shields.io/badge/☕_%E8%AB%8B%E6%88%91%E5%96%9D%E6%9D%AF%E5%92%96%E5%95%A1-Donate-11998e?style=for-the-badge&logo=coffee&logoColor=white" alt="請我喝杯咖啡"/>
+    <img src="https://img.shields.io/badge/☕_%E8%AB%8B%E6%88%91%E5%96%9D%E6%9D%AF%E5%92%96%E5%95%A1-Donate-11998e?style=for-the-badge&logo=coffee&logoColor=white" alt="綠界贊助" height="40"/>
   </a>
-  &nbsp;&nbsp; <a href="https://calendly.com/markcheng00806-intumit/15min" target="_blank">
-    <img src="https://img.shields.io/badge/📅_%E9%A0%90%E7%B4%84_15_%E5%88%86%E9%90%98-Book_Time-0072ff?style=for-the-badge" alt="預約 15 分鐘"/>
+  &nbsp;
+  <a href="https://calendly.com/markcheng00806-intumit/15min" target="_blank">
+    <img src="https://img.shields.io/badge/📅_%E9%A0%90%E7%B4%84_15_%E5%88%86%E9%90%98-Book_Time-0072ff?style=for-the-badge" alt="預約時間" height="40"/>
   </a>
-<br><br>
+
+  <br><br>
   <p style="font-size: 14px; color: #888; font-style: italic;">
-    "你的鼓勵將被轉換為我明天繼續加班的動力（真的）。"
+    你的鼓勵將被轉換為我明天繼續加班的動力（真的）。 ❤️
   </p>
 </div>
