@@ -2,13 +2,8 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=79C0FF&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=500&height=180&lines=System.out.println(%22Hello+World!%22);Java+Backend+Engineer+%F0%9F%9A%80;Performance+Tuning+Enthusiast+%F0%9F%93%88;Bug+Hunter+at+Midnight+%F0%9F%8C%99" alt="Typing SVG" />
   </a>
-  <h1>Hi there, I'm Mark! 👋</h1>
-  <h3>一名熱衷於把 JVM 榨乾到極致的 Java 後端工程師</h3>
-
-  <p>
-    <i>"Debugging at midnight is more satisfying than gaming."</i> 🎮<br>
-    比起遊戲通關，我更享受看到 GC Log 變乾淨的那一瞬間。
-  </p>
+  
+  <h3>嗨，我是 Mark，主要寫 Java 後端。</h3>
 
   <p>
     <a href="https://linkedin.com/in/cheng106" target="_blank">
@@ -26,16 +21,19 @@
 ---
 
 ### 關於我 (About Me)
+平常在做金融相關系統，工作內容大多是：
+- 跟高併發、低延遲、奇怪的歷史系統搏鬥
+- 想辦法讓系統不要在流量一來就開始喘
+- Debug 到半夜，然後發現是自己早上寫的 bug（經典）
 
-- **目前專注於**：金融推播系統的後端開發，正在研究如何讓高併發場景下的延遲更低。
-- **正在學習**：Kubernetes 的深層調度邏輯與分散式系統架構設計。
-- **擅長領域**：
-    - 微服務架構與 Hazelcast 舊系統維護。
-    - **Java 效能調校**：不僅僅是寫程式，更喜歡深入堆疊 (Stack) 找問題。
+比起追新框架，我比較在意：
+- 系統跑久了會不會炸  
+- 壓力一上來還撐不撐得住  
+- 出事的時候能不能快速找出問題
 
 ---
 
-### 技術軍火庫 (Tech Arsenal)
+### 常用技術與工具 (Tech Stack)
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=120&section=header&text=Architecture%20and%20Tools&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Designed%20for%20Scalability%20and%20Performance&descAlignY=55&descAlign=50"
