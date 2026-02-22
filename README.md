@@ -61,4 +61,8 @@
   <p style="font-size: 14px; color: #888; font-style: italic;">
     你的鼓勵將被轉換為我明天繼續加班的動力（真的）。 ❤️
   </p>
+  <p style="font-size: 14px; color: #888; font-style: italic;">
+    Your encouragement will turn into my motivation to keep working overtime tomorrow (seriously).
+  </p>
+  
 </div>
