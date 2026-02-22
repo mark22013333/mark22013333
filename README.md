@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=79C0FF&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=500&height=180&lines=System.out.println(%22Hello+World!%22);Java+Backend+Engineer+%F0%9F%9A%80;Performance+Tuning+Enthusiast+%F0%9F%93%88;Bug+Hunter+at+Midnight+%F0%9F%8C%99" alt="Typing SVG" />
   </a>
   
-  <h3>嗨，我是 Mark，主要寫 Java 後端。</h3>
+  <h3>Java Backend Developer | Building reliable and scalable backend services</h3>
 
   <p>
     <a href="https://linkedin.com/in/cheng106" target="_blank">
